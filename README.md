@@ -1,0 +1,1 @@
+"# CSCOMPONENT_EX1_2" 
